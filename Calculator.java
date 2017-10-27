@@ -6,7 +6,7 @@ public class Calculator {
 	double op;
 	double op2;
 	int cure;
-	String x="empty";//Editing Lol
+	String x="empty";//Another Edit
 	String prev="null";
 public void run(){
 	JFrame frame = new JFrame();
